@@ -7,10 +7,12 @@ LinkedIn is more than a resume database. In a previous lesson, we covered how to
 LinkedIn is a giant database of professionals who are in a position to take your career to the next level. 
 
 **Advanced Search** Get familiar with the Advanced People Search and use it to find recruiters, people doing the job you want to have, and 2nd degree connections inside of companies.
-
-Click on the word “Advanced” to the right of the search bar.
-
+ 
 ![Advanced Search](https://s3.amazonaws.com/learn-verified/AdvancedSearchLinkedIn.png)
+
+- Click on the word “Advanced” again on the left hand side and this will open up a new view that has search criteria.
+
+![Advanced Search 2](https://s3.amazonaws.com/learn-verified/AdvancedSearch2LinkedIn.png) 
 
 - Search by:
   * Keyword (a skill or field they are in)
@@ -19,7 +21,9 @@ Click on the word “Advanced” to the right of the search bar.
     - You can also search specifically for recruiters. Type “recruiter”, “talent acquisition” or “tech recruiter” to find people working internally on the recruiting team at a company
   * If there is a specific company you’re interested in, you can search that as well in the “Company” field. 
   * Location. Refine your results by location using your zip code. 
-- When your search results will pop up, they will be sorted by the people most closely linked to you showing up first. Prioritize 1st and 2nd degree connections because it will be easiest to connect with them. 
+ 
+- When your search results pop up, they will be sorted by the people most closely linked to you showing up first. Prioritize 1st and 2nd degree connections because it will be easiest to connect with them. 
+
 - You can search for just one of the fields above or all of them. Of course, the more filters you apply, the fewer results you’ll get.
 
 In future lessons we will cover in detail how to connect online with people you have never met before and how to leverage your 1st and 2nd degree connections.
@@ -28,13 +32,23 @@ In future lessons we will cover in detail how to connect online with people you 
 
 LinkedIn has a robust jobs database. The most strategic way to use it is to find leads for opportunities. When you see a job posted on Linkedin, prioritize getting in touch with a person somehow connected to the job before submitting any online applications. Think of this as another way to create and build relationships. 
 
-On your Home page, click on “Jobs” on the top toolbar to get to LinkedIn’s job database. On the Jobs page, click on “advanced search” on the right and then fill in possible job titles that interest you (e.g. “Software Engineer”, “Full-stack Developer”, “Junior  Web Developer”), and city/zip code. You can refine the results further by searching specific companies but remember you’ll get much fewer results that way. This will then bring up a list of jobs posted on LinkedIn.  
+On your Home page, click on “Jobs” on the top toolbar to get to LinkedIn’s job database. 
+![Jobs LinkedIn](https://s3.amazonaws.com/learn-verified/JobsLinkedIn.png)
+
+On the Jobs page, click on “advanced search” on the right and then fill in possible job titles that interest you (e.g. “Software Engineer”, “Full-stack Developer”, “Junior  Web Developer”), and city/zip code. You can refine the results further by searching specific companies but remember you’ll get much fewer results that way. This will then bring up a list of jobs posted on LinkedIn.  
+
+![Jobs Advanced Search](https://s3.amazonaws.com/learn-verified/JobsAdvancedSearchLinkedIn.png) 
 
 When you click on a job, you will see:
 
 - Who posted the job
+![Job Poster](https://s3.amazonaws.com/learn-verified/JobPosterLinkedIn.png)
+
 - Who works there and is also in your network 
+![Who works there](https://s3.amazonaws.com/learn-verified/ConnectionsJobSearchLinkedIn.png)  
+
 - Similar jobs; use this as a way to research other positions
+![Similar Jobs](https://s3.amazonaws.com/learn-verified/SimilarJobsLinkedIn.png)
 
 **Important:** Before submitting any applications, first reach out to the person who posted the job. If you don’t hear from that person within 5 business days, go ahead and submit an online application to the job.
 
@@ -62,7 +76,11 @@ When getting in touch with a recruiter on LinkedIn or other employee at a compan
 
 There are millions of special interest groups on LinkedIn, and they greatly expand your influence and opportunities. You can join a max of fifty groups, so do that. Your goal in joining groups is join ones where there are people who can hire you or refer you to someone who can.
 
-To begin, go to the center search box at top, select Groups from the drop down menu and then type in your field or industry. Check out the groups that come up and join the largest and most active. You will need to be approved by the group manager for each one you request to join (which might take a few days). 
+To begin, go to the center search box at top, select on the drop down menu on the left hand side and then Groups from the drop down menu. 
+
+![Group Search](https://s3.amazonaws.com/learn-verified/GroupsSearch.png)
+
+Then type in your field or industry in the search box. Check out the groups that come up and join the largest and most active. You will need to be approved by the group manager for each one you request to join (which might take a few days). 
 
 There are three key activities for turning groups into a great tool for finding a position:
 
@@ -74,14 +92,20 @@ This is the “meat” of the group, where most activity happens. Read the posts
 
 Most groups have their own job board. This is a fantastic place to look for a position, since it is specific to your industry.
 
+On the group page, click on "Jobs" next to "Conversations" to see jobs that people have posted. 
+
+![Jobs in LinkedIn Group](https://s3.amazonaws.com/learn-verified/JobsGroupsLinkedIn.png)
+
 3) Member List:
 
 Groups are great places to network with people who can lead to your next position. Click on the number of people in the group which is shown on the group main page right under the Group name (it will say something like: “6,000 Members”). That will pull up a list of everyone in the group, and there you can find recruiters and potential hiring managers and employees of companies you’re interested in. You can direct message anyone you are in a group with, up to 15 messages a month.
 
 ## Assignment
 
-Join at least 10 LinkedIn groups
-- Make a post in 3-5 of the groups you joined and start (or join) a conversation!
+There's nothing you need to submit, but complete the action items below. 
+
+Join at least 10 LinkedIn groups. In some cases, you'll need to have your request approved which might take anywhere from a few hours to a few days.
+- Make a post in at least of the groups you joined, and start or participate in a conversation!
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/linkedin-for-research-and-networking'>LinkedIn for Research and Networking</a> on Learn.co and start learning to code for free.</p>
