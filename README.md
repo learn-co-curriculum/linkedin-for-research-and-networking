@@ -10,6 +10,8 @@ LinkedIn is a giant database of professionals who are in a position to take your
 
 Click on the word “Advanced” to the right of the search bar.
 
+![Advanced Search](https://s3.amazonaws.com/learn-verified/AdvancedSearchLinkedIn.png)
+
 - Search by:
   * Keyword (a skill or field they are in)
   * Title
