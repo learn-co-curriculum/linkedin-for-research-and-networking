@@ -105,7 +105,7 @@ Groups are great places to network with people who can lead to your next positio
 There's nothing you need to submit, but complete the action items below. 
 
 Join at least 10 LinkedIn groups. In some cases, you'll need to have your request approved which might take anywhere from a few hours to a few days.
-- Make a post in at least of the groups you joined, and start or participate in a conversation!
+- Make a post in at least five of the groups you joined, and start or participate in a conversation!
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/linkedin-for-research-and-networking'>LinkedIn for Research and Networking</a> on Learn.co and start learning to code for free.</p>
