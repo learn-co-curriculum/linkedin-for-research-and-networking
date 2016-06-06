@@ -88,7 +88,7 @@ There are three key activities for turning groups into a great tool for finding 
 
 This is the “meat” of the group, where most activity happens. Read the posts and add valuable content. When you do, your picture, name and headline appear in each discussion. Start a conversation and be seen as a thought leader. Get attention for yourself and your ideas since this could lead to employers checking out your profile. Also, reach out to group members who say interesting things.
 
-2) Job boad: 
+2) Job board: 
 
 Most groups have their own job board. This is a fantastic place to look for a position, since it is specific to your industry.
 
@@ -109,3 +109,5 @@ Join at least 10 LinkedIn groups. In some cases, you'll need to have your reques
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/linkedin-for-research-and-networking'>LinkedIn for Research and Networking</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/linkedin-for-research-and-networking'>Linkedin For Research And Networking</a> on Learn.co and start learning to code for free.</p>
