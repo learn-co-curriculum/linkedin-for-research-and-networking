@@ -56,7 +56,7 @@ Here's an example of how to reach out to the job poster (who will most likely be
 
 >Hi [name], 
 
->I’m noticed that [Company  name] is looking for web developers. [Insert something here about why you’re excited about the company and mention something specific that the company does that you think is great.]
+>I noticed that [Company  name] is looking for web developers. [Insert something here about why you’re excited about the company and mention something specific that the company does that you think is great.]
 
 >[Insert part/most of your elevator pitch that helps the person who posted the job understand who you are] and I’m very interested in an opportunity where I can [insert something that you want to do that the company also does, like work with APIs]. 
 
