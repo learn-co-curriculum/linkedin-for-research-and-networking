@@ -100,9 +100,7 @@ On the group page, click on "Jobs" next to "Conversations" to see jobs that peop
 
 Groups are great places to network with people who can lead to your next position. Click on the number of people in the group which is shown on the group main page right under the Group name (it will say something like: “6,000 Members”). That will pull up a list of everyone in the group, and there you can find recruiters and potential hiring managers and employees of companies you’re interested in. You can direct message anyone you are in a group with, up to 15 messages a month.
 
-## Assignment
-
-There's nothing you need to submit, but complete the action items below. 
+## Next Steps
 
 Join at least 10 LinkedIn groups. In some cases, you'll need to have your request approved which might take anywhere from a few hours to a few days.
 - Make a post in at least five of the groups you joined, and start or participate in a conversation!
