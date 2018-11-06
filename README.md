@@ -44,12 +44,15 @@ On the Jobs page, click into the Search Jobs field and fill in possible job titl
 When you click on a job, you will see:
 
 - Who posted the job
+
 ![Job Poster](https://user-images.githubusercontent.com/19150952/48096595-934f2c80-e1e5-11e8-9f24-2c37b77bdcda.png)
 
 - Who works there and is also in your network 
+
 ![Who works there](https://user-images.githubusercontent.com/19150952/48096613-a06c1b80-e1e5-11e8-9760-e066dfbf18ec.png)
 
 - Similar jobs; use this as a way to research other positions
+
 ![Similar Jobs](https://user-images.githubusercontent.com/19150952/48096627-a9f58380-e1e5-11e8-8b60-402132345ef4.png)
 
 **Important:** Before submitting any applications, first reach out to the person who posted the job. If you don’t hear from that person within 5 business days, go ahead and submit an online application to the job.
