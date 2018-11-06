@@ -122,5 +122,3 @@ Join at least 10 LinkedIn groups. In some cases, you'll need to have your reques
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/linkedin-for-research-and-networking'>LinkedIn for Research and Networking</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/linkedin-for-research-and-networking'>Linkedin For Research And Networking</a> on Learn.co and start learning to code for free.</p>
