@@ -8,7 +8,7 @@ LinkedIn is a giant database of professionals who are in a position to take your
 
 **People Search** Get familiar with this functionality and the All Filters feature (previously known as “Advanced People Search”) and use it to find recruiters, developers, and 1st, 2nd, 3rd degree connections inside of companies.
  
-![Advanced Search](file:///Users/jessicalava/Desktop/Screen%20Shot%202018-11-06%20at%204.19.35%20PM.png)
+![Advanced Search](https://user-images.githubusercontent.com/19150952/48095903-e0ca9a00-e1e3-11e8-851c-b9810fcdcfea.png)
 
 - Click on “All Filters” on the right hand side.
 
