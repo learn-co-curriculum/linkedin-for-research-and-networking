@@ -1,16 +1,16 @@
 # LinkedIn for Research and Networking 
 
-LinkedIn is more than a resume database. In a previous lesson, we covered how to create a stellar LinkedIn profile. The platform though is also the number one place to meet the people you need to know in order to find your next job, and get information on the companies where you might want to work. In this lesson, we'll cover the tactical steps to do all that. 
+LinkedIn is much, much more than a resume database. In a previous lesson, we covered how to create a stellar LinkedIn profile. The platform is also the number one place to meet the people you need to know in order to find your next job, and get information on the companies where you might want to work. In this lesson, we'll cover the tactical steps to do all that.
 
 ## Finding and Reaching Out to People
 
 LinkedIn is a giant database of professionals who are in a position to take your career to the next level. 
 
-**Advanced Search** Get familiar with the Advanced People Search and use it to find recruiters, people doing the job you want to have, and 2nd degree connections inside of companies.
+**People Search** Get familiar with this functionality and the All Filters feature (previously known as “Advanced People Search”) and use it to find recruiters, developers, and 1st, 2nd, 3rd degree connections inside of companies.
  
-![Advanced Search](https://s3.amazonaws.com/learn-verified/AdvancedSearchLinkedIn.png)
+![Advanced Search](file:///Users/jessicalava/Desktop/Screen%20Shot%202018-11-06%20at%204.19.35%20PM.png)
 
-- Click on the word “Advanced” again on the left hand side and this will open up a new view that has search criteria.
+- Click on “All Filters” on the right hand side.
 
 ![Advanced Search 2](https://s3.amazonaws.com/learn-verified/AdvancedSearch2LinkedIn.png) 
 
