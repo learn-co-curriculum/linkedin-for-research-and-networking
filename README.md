@@ -18,7 +18,7 @@ LinkedIn is a giant database of professionals who are in a position to take your
 - Search by:
  * Keyword (a skill or field they are in)
  * Job Title
-    - Look for your potential hiring manager by typing in things like “Technical Director” or “Lead Developer” or “VP of Technology”
+    - Look for your potential hiring manager by typing in things like “Director” or “Lead” or “VP of (Engineering, Data Science, Design, etc.)”
     - You can also search specifically for recruiters. Type “recruiter”, “talent acquisition” or “tech recruiter” to find people working internally on the recruiting team at a company.
  * If there is a specific company you’re interested in, you can search that as well in the “Company” field.
  * Location. Refine your results by location using your zip code.
@@ -37,7 +37,7 @@ On your Home page, click on “Jobs” on the top toolbar to get to LinkedIn’s
 
 ![Jobs LinkedIn](https://user-images.githubusercontent.com/19150952/48096449-28055a80-e1e5-11e8-8d83-724fed833a10.png)
 
-On the Jobs page, click into the Search Jobs field and fill in possible job titles that interest you (e.g. “Software Engineer”, “Full-stack Developer”, “Junior Web Developer”), and city/zip code. You can refine the results further by searching specific companies, but remember you’ll get much fewer results that way. This will then bring up a list of jobs posted on LinkedIn. 
+On the Jobs page, click into the Search Jobs field and fill in possible job titles that interest you, and city/zip code. You can refine the results further by searching specific companies, but remember you’ll get much fewer results that way. This will then bring up a list of jobs posted on LinkedIn. 
 
 ![Jobs Advanced Search](https://user-images.githubusercontent.com/19150952/48096501-4ec39100-e1e5-11e8-9535-0bba3c19a5ce.png)
 
@@ -63,11 +63,11 @@ Here's an example of how to reach out to the job poster (who will most likely be
 
 >Hi [name], 
 
->I noticed that [Company  name] is looking for web developers. [Insert something here about why you’re excited about the company and mention something specific that the company does that you think is great.]
+>I noticed that [Company  name] is looking for [your target job title]s. [Insert something here about why you’re excited about the company and mention something specific that the company does that you think is great.]
 
 >[Insert part/most of your elevator pitch that helps the person who posted the job understand who you are] and I’m very interested in an opportunity where I can [insert something that you want to do that the company also does, like work with APIs]. 
 
->Would you be up for a conversation to talk further about what you’re looking for in a developer and how I might be able to contribute to the team?
+>Would you be up for a conversation to talk further about what you’re looking for in this role and how I might be able to contribute to the team?
 
 >Looking forward to hearing from you!
 
@@ -119,6 +119,3 @@ Join at least 10 LinkedIn groups. In some cases, you'll need to have your reques
 - Make a post in at least five of the groups you joined, and start or participate in a conversation!
 
 **TIP:** Not sure which groups to join? Look up several people who are already in your desired role/s. What trends do you see? If several of them all belong to a particular group/s, join them.
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/linkedin-for-research-and-networking'>LinkedIn for Research and Networking</a> on Learn.co and start learning to code for free.</p>
