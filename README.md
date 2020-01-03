@@ -22,8 +22,6 @@ LinkedIn is a giant database of professionals who are in a position to take your
     - You can also search specifically for recruiters. Type “recruiter”, “talent acquisition” or “tech recruiter” to find people working internally on the recruiting team at a company.
  * If there is a specific company you’re interested in, you can search that as well in the “Company” field.
  * Location. Refine your results by location using your zip code.
-- When your search results pop up, they will be sorted by the people most closely linked to you showing up first. Prioritize 1st and 2nd degree connections because it will be easiest to connect with them.
-- You can search for just one of the fields above or all of them. Of course, the more filters you apply, the fewer results you’ll get.
 - When your search results pop up, they will be sorted by the people most closely linked to you showing up first. Prioritize 1st and 2nd degree connections because it will be easiest to connect with them. 
 - You can search for just one of the fields above or all of them. Of course, the more filters you apply, the fewer results you’ll get.
 
